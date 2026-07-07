@@ -42,7 +42,7 @@
 
 
 ---
-### 📊 Github Stats
+### 📊 Github Status
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavy2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
