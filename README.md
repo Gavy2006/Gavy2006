@@ -42,14 +42,16 @@
 
 
 ---
-### 📊 Github Status
+### 📊 GitHub Status
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavy2006&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" />
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gavy2006&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Gavy2006&theme=radical&hide_border=true" />
+  <img width="100%"
+       src="https://streak-stats.demolab.com?user=Gavy2006&theme=radical&hide_border=true" />
 </p>
 
 ---
