@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJ1ZjN1Mm8wZ250MGd6NG5veXQ3OGY4MjFweG44dzNiYWtvdmFvOSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jRf5fsn8G6YaogAWxn/giphy.gif" alt="Coding Animation" width="200"/>
 </p>
 
-# <p align="center">Hi there, I'm Gavy! 👋</p>
+# <p align="center">Hi there, I'm Gavy!! 👋</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Android+App+Developer;Java+%2B+DSA+Enthusiast;Electrical+%26+Computer+Engineering" alt="Typing Animation" />
