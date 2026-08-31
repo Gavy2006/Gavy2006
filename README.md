@@ -5,7 +5,7 @@
 # <p align="center">Hi there, I'm Gavy!! 👋</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Android+App+Developer;Java+%2B+DSA+Enthusiast;Electrical+%26+Computer+Engineering" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=25&pause=1000&color=FF385C&center=true&vCenter=true&width=600&lines=Mobile+App+Developer;Java+%2B+DSA+Enthusiast;Electrical+%26+Computer+Engineering" alt="Typing Animation" />
 </p>
 
 <p align="center">
